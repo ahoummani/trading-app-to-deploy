@@ -4,13 +4,13 @@
 # In[1]:
 
 
-from lti.indicators import *
+from indicators import *
 
 
 # In[2]:
 
 
-from lti.Marché import Data 
+from Marché import Data 
 
 
 # In[3]:
